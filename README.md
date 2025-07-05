@@ -1,6 +1,9 @@
-### Hi there 👋
+### Hey, I'm Nazil Dhalwala 👋
+
+
 # 💫 About Me:
-🔭 I’m currently Pursuing B.Tech - IT<br>🌱 I’m currently learning React JS<br>💬 You Can Contact me at ndhalwala@gmail.com
+🔭 I completed my B.Tech - IT<br>
+💬 You Can Contact me at ndhalwala@gmail.com
 
 
 ## 🌐 Socials:
