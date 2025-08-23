@@ -2,7 +2,6 @@
 
 
 # 💫 About Me:
-🔭 I completed my B.Tech - IT<br>
 💬 You Can Contact me at ndhalwala@gmail.com
 
 
