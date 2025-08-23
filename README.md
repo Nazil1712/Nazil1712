@@ -2,6 +2,7 @@
 
 
 # 💫 About Me:
+👨‍🎓 I have completed my B.Tech in Information Technology from Charotar University of Science And Technology
 💬 You Can Contact me at ndhalwala@gmail.com
 
 
